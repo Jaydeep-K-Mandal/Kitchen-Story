@@ -27,8 +27,6 @@ Admin can see, add and delete all entries of products in database collection.
 <b>Application Server</b>  - Angular running on Heroku Cloud Application Platform <br>
 <b>REST API Server</b>  - Spring Boot running on Heroku Cloud Application Platform <br> 
 
-## Demo
-Application is hosted [here](http://kitchen-story-angular.herokuapp.com/) on Heroku.
 ## Setup
 To run in your localhost - Clone the project into your local directory. Edit the credentials in `application.properties` for database connection open in IDE and run as the Spring Boot project. 
 Then open the Angular project in VS Code and run using `ng serve --open` command from the terminal.
